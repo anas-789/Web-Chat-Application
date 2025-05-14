@@ -5,4 +5,4 @@ langchain_core
 langchain_together
 langchain_text_splitters
 streamlit
-decouple
+python-decouple
