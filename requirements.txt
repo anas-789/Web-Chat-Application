@@ -1,8 +1,10 @@
-langchain
-langchain_groq
-langchain_community
-langchain_core
-langchain_together
-langchain_text_splitters
+requests
 streamlit
+langchain
+beautifulsoup4
+langchain_core
+langchain_groq
 python-decouple
+langchain_together
+langchain_community
+langchain_text_splitters
