@@ -29,7 +29,7 @@ if "vector_store" not in st.session_state:
 
 # Page layout
 st.title("🌐 Website Chat Assistant")
-st.caption("Chat with any website using Hugging Face LLMs")
+st.caption("Chat with any website like a Personal Assistance")
 
 # Sidebar configuration
 with st.sidebar:
