@@ -1,6 +1,7 @@
 requests
 streamlit
 langchain
+faiss-cpu
 beautifulsoup4
 langchain_core
 langchain_groq
